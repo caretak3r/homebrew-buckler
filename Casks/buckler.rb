@@ -7,8 +7,8 @@
 #   xattr -dr com.apple.quarantine /Applications/Buckler.app
 
 cask "buckler" do
-  version "0.3.1"
-  sha256 "e2c03edc5d6dd286a366c46331ed2d853b14f7b2773b6b11e8af09f0bdb6d878"
+  version "0.3.2"
+  sha256 "8bdb742b0ad09b3f3f482732e2681280de1103740e664e661dae899fa1150851"
 
   url "https://github.com/caretak3r/homebrew-buckler/releases/download/v#{version}/Buckler-#{version}.zip"
   name "Buckler"
