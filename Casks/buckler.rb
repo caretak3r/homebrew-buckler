@@ -10,8 +10,7 @@ cask "buckler" do
   version "0.2.2"
   sha256 "5093994ae38dacbca7beea6e4b64f4a064152dede28f8f7e068a1c1dcaa66670"
 
-  url "https://github.com/caretak3r/homebrew-buckler/releases/download/v#{version}/Buckler-#{version}.zip",
-      verified: "github.com/caretak3r/homebrew-buckler/"
+  url "https://github.com/caretak3r/homebrew-buckler/releases/download/v#{version}/Buckler-#{version}.zip"
   name "Buckler"
   desc "Menu bar supply-chain scanner for macOS"
   homepage "https://silent.engineer/buckler/"
